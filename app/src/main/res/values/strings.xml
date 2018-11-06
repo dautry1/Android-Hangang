@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Autry Hangman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_game">Start Game</string>
+    <string name="play_activity">Play Activity</string>
+    <string name="youLose">YOU LOSE!!  ET HAS BEEN HANGED!  ET NOT PHONE HOME.</string>
+    <string name="you_win">YOU WIN!!</string>
+    <string name="mystery_phrase">Mystery Phrase</string>
+</resources>
